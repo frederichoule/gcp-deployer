@@ -1,5 +1,5 @@
 # gcp-deployer
-Super useful Docker image to deploy PHP + Node apps.
+Super useful Docker image to deploy PHP + Node apps. Based on Ubuntu 20.04.
 
 ## Included
 - NVM
